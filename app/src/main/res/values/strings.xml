@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imran_Mamirov_hw_3_1</string>
+    <string name="enter_the_password">Введите пароль</string>
+    <string name="send">Отправить</string>
+</resources>
